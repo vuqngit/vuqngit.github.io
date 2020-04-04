@@ -42,6 +42,8 @@ Vu Nguyen, Barry W. Boehm, Phongphan Danphitsanuphan, “Assessing and Estimatin
 
 Vu Nguyen, Bert Steece, Barry W. Boehm, “A Constrained Regression Technique for COCOMO Calibration,” Proceedings of the Second ACM-IEEE International Symposium on Empirical Software Engineering and Measurement (ESEM), Oct 2008.
 
+Vu Nguyen, Sophia Deeds-Rubin, Thomas Tan, Barry W. Boehm. A SLOC Counting Standard. COCOMO II Forum, Los Angeles, USA. 2007.
+
 A. Winsor Brown, Vu Nguyen, “COINCOMO, the COCOTS Integration Challenges.” ISPA – SCEA International Conference & Workshop, June 2007.
 
 A. Winsor Brown, Ed Colbert, Vu Nguyen, “COINCOMO And Its New Supporting Tools.” International Society of Parametric Analysts (ISPA) Annual Conference, 2006.
