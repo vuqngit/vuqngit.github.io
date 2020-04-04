@@ -4,11 +4,11 @@ title: Projects
 permalink: /projects/
 ---
 
-## Test Automation (2018 - present)
+### :Test Automation (2018 - present)
 
 This project is focused on addressing several issues of test automation, such as prioritizing, classificating test cases, and generating reliable tests for automation.  
 
-## Software Estimation (2015 - present)
+## :Software Estimation (2015 - present)
 
 We have been working on investigating approaches to building and calibrating models for software estimation. 
 
