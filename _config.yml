@@ -9,10 +9,10 @@ name: Vu Nguyen
 author: Vu Nguyen
 
 # Short bio or description (displayed in the header)
-description: Faculty of Information Technology, University of Science, Vietnam National University - HCMC
+description: #Faculty of Information Technology, University of Science, Vietnam National University - HCMC
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: # /images/reverie.png
 
 #
 # Flags below are optional
