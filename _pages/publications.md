@@ -4,9 +4,23 @@ title: Publications
 permalink: /publications/
 ---
 
-Nguyen, V., Dang, H. H., Do, N. K., & Tran, D. T. (2016). Enhancing team collaboration through integrating social interactions in a Web‐based development environment. Computer Applications in Engineering Education.
+Vu Nguyen, Thuy Huynh, Barry Boehm, LiGuo Huang, and Thong Truong. "Investigating the use of duration‐based windows and estimation by analogy for COCOMO." Journal of Software: Evolution and Process (2019)
 
-Hai H. Dang, Vu Nguyen, Kha N. Do, Thu D. Tran, “EduCo: an Integrated Social Environment for Teaching and Learning Software Engineering Courses,” International Conference on Information Integration and Web-based Applications & Services (iiWAS), 2014 (Best Student Paper Award).
+An Nguyen, Bach Le, Vu Nguyen. “Prioritizing automated user interface tests using reinforcement learning”. The 15th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2019). September, 2019. Porto de Galinhas, Brazil
+
+Thu Tran, Vu Nguyen, Thong Truong, Chi Tran, Phu Le. “An evaluation of parameter pruning approaches for software estimation”. The 15th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2019). September, 2019. Porto de Galinhas, Brazil
+
+Duc Nguyen Huu Dat, Loc Tran Phuoc, Vu Nguyen, “Predicting stock prices using LSTM models”, Second International Conference on Applied Informatics (ICAI 2019). November, 2019. Madrid, Spain
+
+Vinh Nguyen, Khoa Phu Nguyen, Vu Nguyen. “Clustering Automation Test Faults”, IEEE International Conference on Knowledge and Systems Engineering (KSE), 2019. 
+
+Vu Nguyen, Barry Boehm, and LiGuo Huang. "Determining Relevant Training Data for Effort Estimation Using Window-based COCOMO Calibration." Journal of Systems and Software, 147, 124-146. 2018
+
+Phu Le, Vu Nguyen, “A k-Nearest Neighbors Approach for COCOMO Calibration”, NICS 2017, Hanoi, Vietnam
+
+Vu Nguyen, Hai H. Dang, Kha N. Do, Thu D. Tran (2016). Enhancing team collaboration through integrating social interactions in a Web‐based development environment. Computer Applications in Engineering Education.
+
+Hai H. Dang, Vu Nguyen, Kha N. Do, Thu D. Tran, “EduCo: an Integrated Social Environment for Teaching and Learning Software Engineering Courses,” International Conference on Information Integration and Web-based Applications & Services (iiWAS), 2014 (**Best Student Paper Award**).
 
 Vu Nguyen, Hai H. Dang, Kha N. Do, Thu D. Tran, “Learning and Practicing Object-Oriented Programming Using a Collaborative Web-based IDE,” Frontiers in Education (FIE), 2014.
 
@@ -18,7 +32,7 @@ Ye Yang, Lang Xie, Zhimin He, Qi Li, Vu Nguyen, Barry Boehm, Ricardo Valerdi, �
 
 Vu Nguyen, LiGou Huang, Barry Boehm, “An Analysis of Trends in Productivity and Cost Drivers over Years”, 7th International Conference on Predictive Models in Software Engineering (PROMISE 2011), Sept 2011.
 
-Ye Yang, Lang Xie, Zhimin He, Qi Li, Vu Nguyen, Barry Boehm and Ricardo Valerdi, “Local Bias and its Impacts on the Performance of Parametric Estimation Models”, PROMISE 2011, Sept 2011.
+Ye Yang, Lang Xie, Zhimin He, Qi Li, Vu Nguyen, Barry Boehm and Ricardo Valerdi, “Local Bias and its Impacts on the Performance of Parametric Estimation Models”, PROMISE 2011, Sept 2011. (**Best Paper Award**)
 
 Vu Nguyen, Barry W. Boehm, Phongphan Danphitsanuphan, “A Controlled Experiment in Assessing and Estimating Software Maintenance Tasks.” Journal of Information and Software Technology, June 2011.
 
