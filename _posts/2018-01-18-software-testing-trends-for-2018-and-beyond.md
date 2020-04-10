@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Software Testing Trends for 2018 and Beyond
-categories: [software estimation, test automation]
+categories: [test automation]
 excerpt: Recent years have brought many changes to software testing practices that will define 2018, such as DevOps adoption, combined automated and manual testing, and more.
 ---
 
