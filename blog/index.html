@@ -3,11 +3,13 @@ layout: default
 title: Blog Posts and Articles
 ---
 
+Below is a collection of my blog posts, articles, and other miscellaneous writings on various topics. 
+
 <div class="posts">
   {% for post in paginator.posts %}
     <article class="post">
       <a href="{{ site.baseurl }}{{ post.url }}">
-        <h1>{{ post.title }}</h1>
+        <h3>{{ post.title }}</h3>
 
         <div>
           <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
