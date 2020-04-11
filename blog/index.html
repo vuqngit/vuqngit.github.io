@@ -1,29 +1,7 @@
 ---
 layout: default
+title: Blog Posts and Articles
 ---
-
-<h1 style="text-align:left;">Vu Nguyen, Ph.D. </h1><br>
-Vice Dean, Faculty of Information Technology, University of Science <br>
-Vietnam National University at Ho Chi Minh city (VNU-HCMC)<p>
-
-Office: I82, 227 Nguyen Van Cu st., Dist. 5, Ho Chi Minh city, Vietnam<br>
-Email: nvu[at]fit.hcmus.edu.vn <p>
-
-<h2 style="text-align:left;">Research Interests</h2>
-
-<ul style="list-style-type:disc;">
-  <li>Software engineering</li>
-  <li>Software estimation</li>
-  <li>Software testing</li>
-  <li>Software maintenance</li>
-  <li>Software outsourcing</li>
-  <li>Software engineering education</li>
-</ul>
-
-<h2 style="text-align:left;">Education</h2>
-Ph.D., University of Southern California (USC), 2010<br>
-Master of Science, University of Southern California (USC), 2006<br>
-Bachelor of Science, University of Science, VNU-HCMC<br>
 
 <div class="posts">
   {% for post in paginator.posts %}
@@ -42,4 +20,32 @@ Bachelor of Science, University of Science, VNU-HCMC<br>
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
+
+  <!-- pagination -->
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+    {% else %}
+      <span>&laquo; Prev</span>
+    {% endif %}
+
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <span class="webjeda">{{ page }}</span>
+      {% elsif page == 1 %}
+        <a href="{{ '/' | prepend: site.baseurl | replace: '//', '/' }}">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+    {% else %}
+      <span>Next &raquo;</span>
+    {% endif %}
+  </div>
+  {% endif %}
 </div>
+
