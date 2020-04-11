@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Blog Posts and Articles
-permalink: /projects/
+permalink: /blog/
 ---
 
 <div class="posts">
