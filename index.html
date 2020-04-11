@@ -24,3 +24,21 @@ Email: nvu[at]fit.hcmus.edu.vn <p>
 Ph.D., University of Southern California (USC), 2010<br>
 Master of Science, University of Southern California (USC), 2006<br>
 Bachelor of Science, University of Science, VNU-HCMC<br>
+
+<div class="posts">
+  {% for post in paginator.posts %}
+    <article class="post">
+      <a href="{{ site.baseurl }}{{ post.url }}">
+        <h1>{{ post.title }}</h1>
+
+        <div>
+          <p class="post_date">{{ post.date | date: "%B %e, %Y" }}</p>
+        </div>
+      </a>
+      <div class="entry">
+        {{ post.excerpt }}
+      </div>
+
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+    </article>
+  {% endfor %}
