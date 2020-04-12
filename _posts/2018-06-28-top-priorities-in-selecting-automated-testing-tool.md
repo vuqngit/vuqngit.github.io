@@ -9,4 +9,4 @@ Software automation tools and frameworks are crucial for the success of test aut
 
 Understanding the priorities in determining automation tools is part of our survey which questioned more than 2,000 software test professionals about their experience with test automation. The survey results show that more than 60% of respondents with 3+ years of experience in test automation agreed that licensing & support costs and good test reports are the most important priorities in deciding a test automation tool. Moreover, respondents with less experience in test automation prioritize training and support materials over other criteria.
 
-Please read the full article on DZone: ["Top Priorities in Selecting Automated Testing Tools"](https://dzone.com/articles/top-priorities-in-selecting-automated-testing-tool)(target="_blank"). 
+Please read the full article on DZone: ["Top Priorities in Selecting Automated Testing Tools"](https://dzone.com/articles/top-priorities-in-selecting-automated-testing-tool){:target="_blank"}. 
