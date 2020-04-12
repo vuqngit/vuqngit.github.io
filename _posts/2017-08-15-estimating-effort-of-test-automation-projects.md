@@ -9,4 +9,4 @@ Software test estimation is a process that determines testing effort, schedule, 
 
 This article describes a method for estimating size and effort of test automation. This method is based on the qEstimation process introduced by Nguyen et al. [1]. It is also based on our experience in estimating time of test automation projects using Katalon Studio, a tool for generating and executing automated tests of web and mobile applications.
 
-Read the remaining on DZone: ["Estimating Effort of Test Automation Projects"](https://dzone.com/articles/estimating-effort-of-test-automation-projects)
+Read the remaining on DZone: ["Estimating Effort of Test Automation Projects"](https://dzone.com/articles/estimating-effort-of-test-automation-projects){:target="_blank"}
