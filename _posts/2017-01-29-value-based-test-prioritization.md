@@ -11,4 +11,4 @@ In this post, we will discuss a method that helps find such a right balance.
 
 First, let’s consider a few common scenarios that you as a tester may encounter. One scenario is that you have 1,000 test cases to be written and tested for a one-month iteration or sprint. Your project produces many builds during the iteration. Your testing team has three people, which is barely enough for testing every test case once. Because your manpower is limited, you have to decide which test cases to test for which build and which test cases have to be tested repeatedly on multiple builds. For another scenario, in a later stage of the project, your customer requests to test a build to release, and you have only five days to test 2,000 test cases. What would you do if you don’t have enough manpower to test all of the test cases in five days?
 
-Continue the article on DZone: ["Value-Based Test Prioritization"](https://dzone.com/articles/value-based-test-prioritization). 
+Continue the article on DZone: ["Value-Based Test Prioritization"](https://dzone.com/articles/value-based-test-prioritization){:target="_blank"}. 
