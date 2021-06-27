@@ -4,6 +4,12 @@ title: Publications
 permalink: /publications/
 ---
 
+Vu Nguyen & Bach Le (2021). “RLTCP: A reinforcement learning approach to prioritizing automated user interface tests”. Information and Software Technology, 136.
+
+Vu Nguyen, Thanh To, & Han Diep (2021). “Generating and selecting resilient and maintainable locators for Web automated testing”. Software Testing Verification and Reliability.
+
+Bao Do, Nghia Nguyen, Linh Mai and Vu Nguyen, "Mining and Creating a Software Repositories Dataset," 2020 7th NAFOSTED Conference on Information and Computer Science (NICS), Ho Chi Minh City, Vietnam, 2020, pp. 78-83.
+
 Vu Nguyen, Thuy Huynh, Barry Boehm, LiGuo Huang, and Thong Truong. "Investigating the use of duration‐based windows and estimation by analogy for COCOMO." Journal of Software: Evolution and Process (2019)
 
 An Nguyen, Bach Le, Vu Nguyen. “Prioritizing automated user interface tests using reinforcement learning”. The 15th International Conference on Predictive Models and Data Analytics in Software Engineering (PROMISE 2019). September, 2019. Porto de Galinhas, Brazil
