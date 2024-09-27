@@ -4,9 +4,33 @@ title: Publications
 permalink: /publications/
 ---
 
+Hieu Huynh, Nhu Pham, Tien Nguyen, Vu Nguyen, "Segment-based Test Case Prioritization: a Multi-objective   Approach", ISSTA 2024, Vienna, Austria.
+
+Tri Le, Thien Tran, Duy Cao, Vy Le, Vu Nguyen and Tien Nguyen, "KAT: Dependency-aware API Testing with Large Language Models", ICST 2024, Toronto, Canada
+
+Duy Cao, Phu Nguyen, Vy Le, Long Nguyen, Vu Nguyen, "Try-Then-Eval: Equipping an LLM-based Agent with a Two-Phase Mechanism to Solve Computer Tasks", The IEEE International Conference on Systems, Man, and Cybernetics IEEE (SMC 2024), Sarawak, Malaysia.
+
+Hai Phung, Hao Pham, Tien Nguyen, Vu Nguyen, "VisiDroid: An Approach for Generating Test Scripts from Task Descriptions for Mobile Testing", The Pacific Rim International Conference on Artificial Intelligence (PRICAI 2024), Kyoto, Japan. 
+
+Diep Tran, Quyen Tran, Quy Tran, Vu Nguyen, and Minh-Triet Tran. "Enhancing Financial Market Prediction with Reinforcement Learning and Ensemble Learning." In IFIP International Conference on Artificial Intelligence Applications and Innovations, pp. 32-46. Cham: Springer Nature Switzerland, 2024.
+
+Hieu Huynh, Quoc-Tri Le, Vu Nguyen, and Tien Nguyen. "Web Page Segmentation: A DOM-Structural Cohesion Analysis Approach." In International Conference on Web Information Systems Engineering, pp. 319-333. Singapore: Springer Nature Singapore, WISE 2023.
+
+Nguyen, Cuong, Huy Bui, Vu Nguyen, and Tien Nguyen. "An Approach to Generating API Test Scripts Using GPT." In Proceedings of the 12th International Symposium on Information and Communication Technology, pp. 501-509. 2023.
+
+Khang Pham, Vu Nguyen, and Tien Nguyen. "Application of Natural Language Processing Towards Autonomous Software Testing." Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. 2022.
+
+Phuoc Pham, Vu Nguyen, and Tien Nguyen. "A Review of AI-augmented End-to-End Test Automation Tools." Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. 2022.
+
+Kiet Ngo, Vu Nguyen, and Tien Nguyen. "Research on Test Flakiness: from Unit to System Testing." Proceedings of the 37th IEEE/ACM International Conference on Automated Software Engineering. 2022.
+
+Tri Cao, Tuan Ngoc Vu, Huyen Thao Le, Vu Nguyen, "Ensemble approaches for Test Case Prioritization in UI testing", The 34th International Conference on Software Engineering & Knowledge Engineering (SEKE 2022)
+
 Vu Nguyen & Bach Le (2021). “RLTCP: A reinforcement learning approach to prioritizing automated user interface tests”. Information and Software Technology, 136.
 
 Vu Nguyen, Thanh To, & Han Diep (2021). “Generating and selecting resilient and maintainable locators for Web automated testing”. Software Testing Verification and Reliability.
+
+Hoang-Gia Nguyen, Hoang-Dat Le, Vu Nguyen, “Prioritizing automated test cases of Web applications using reinforcement learning: an enhancement”, KSE 2021
 
 Bao Do, Nghia Nguyen, Linh Mai and Vu Nguyen, "Mining and Creating a Software Repositories Dataset," 2020 7th NAFOSTED Conference on Information and Computer Science (NICS), Ho Chi Minh City, Vietnam, 2020, pp. 78-83.
 
