@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Hieu Huynh, Quoc-Tri Le, Tien N. Nguyen, and Vu Nguyen. "Using LLM for Mining and Testing Constraints in API Testing." In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024).
+
 Hieu Huynh, Nhu Pham, Tien Nguyen, Vu Nguyen, "Segment-based Test Case Prioritization: a Multi-objective   Approach", ISSTA 2024, Vienna, Austria.
 
 Tri Le, Thien Tran, Duy Cao, Vy Le, Vu Nguyen and Tien Nguyen, "KAT: Dependency-aware API Testing with Large Language Models", ICST 2024, Toronto, Canada
