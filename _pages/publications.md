@@ -4,6 +4,8 @@ title: Publications
 permalink: /publications/
 ---
 
+Hieu Huynh, Quoc-Tri Le, Vu Nguyen, and Tien Nguyen. "A DOM-structural cohesion analysis approach for segmentation of modern web pages." World Wide Web 28, no. 2 (2025): 23. https://trebuchet.public.springernature.app/get_content/979c1273-a2ac-46c1-b200-e477f9a31001?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250226&utm_content=10.1007/s11280-025-01333-3 
+
 Hieu Huynh, Quoc-Tri Le, Tien N. Nguyen, and Vu Nguyen. "Using LLM for Mining and Testing Constraints in API Testing." In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024).
 
 Hieu Huynh, Nhu Pham, Tien Nguyen, Vu Nguyen, "Segment-based Test Case Prioritization: a Multi-objective   Approach", ISSTA 2024, Vienna, Austria.
