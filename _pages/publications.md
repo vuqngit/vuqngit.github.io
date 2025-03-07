@@ -8,9 +8,9 @@ Hieu Huynh, Quoc-Tri Le, Vu Nguyen, and Tien Nguyen. "A DOM-structural cohesion 
 
 Hieu Huynh, Quoc-Tri Le, Tien N. Nguyen, and Vu Nguyen. "Using LLM for Mining and Testing Constraints in API Testing." In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024).
 
-Hieu Huynh, Nhu Pham, Tien Nguyen, Vu Nguyen, "Segment-based Test Case Prioritization: a Multi-objective   Approach", ISSTA 2024, Vienna, Austria.
+Hieu Huynh, Nhu Pham, Tien Nguyen, Vu Nguyen, "Segment-based Test Case Prioritization: a Multi-objective   Approach", ISSTA 2024, Vienna, Austria. [arXiv](https://arxiv.org/pdf/2408.0705)
 
-Tri Le, Thien Tran, Duy Cao, Vy Le, Vu Nguyen and Tien Nguyen, "KAT: Dependency-aware API Testing with Large Language Models", ICST 2024, Toronto, Canada
+Tri Le, Thien Tran, Duy Cao, Vy Le, Vu Nguyen and Tien Nguyen, "KAT: Dependency-aware API Testing with Large Language Models", ICST 2024, Toronto, Canada. [arXiv](https://arxiv.org/pdf/2407.10227)
 
 Duy Cao, Phu Nguyen, Vy Le, Long Nguyen, Vu Nguyen, "Try-Then-Eval: Equipping an LLM-based Agent with a Two-Phase Mechanism to Solve Computer Tasks", The IEEE International Conference on Systems, Man, and Cybernetics IEEE (SMC 2024), Sarawak, Malaysia.
 
