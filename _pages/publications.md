@@ -3,10 +3,15 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+Hieu Huynh, Hai Phung, Hao Pham, Tien N. Nguyen, Vu Nguyen, "Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning", [arXiv](https://arxiv.org/pdf/2504.15917)
 
-Hieu Huynh, Quoc-Tri Le, Vu Nguyen, and Tien Nguyen. "A DOM-structural cohesion analysis approach for segmentation of modern web pages." World Wide Web 28, no. 2 (2025): 23. [PDF](https://trebuchet.public.springernature.app/get_content/979c1273-a2ac-46c1-b200-e477f9a31001?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=nonoa_20250226&utm_content=10.1007/s11280-025-01333-3) 
+Duy Cao, Phu Nguyen, Vy Le, Tien N. Nguyen, Vu Nguyen, "Toward Generation of Test Cases from Task Descriptions via History-aware Planning", [arXiv](https://arxiv.org/pdf/2504.14336)
 
-Hieu Huynh, Quoc-Tri Le, Tien N. Nguyen, and Vu Nguyen. "Using LLM for Mining and Testing Constraints in API Testing." In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024).
+Hieu Huynh, Tri Le, Vu Nguyen, Tien N. Nguyen, "Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing". [arXiv](https://arxiv.org/pdf/2504.17287)
+
+Hieu Huynh, Quoc-Tri Le, Vu Nguyen, and Tien Nguyen. "A DOM-structural cohesion analysis approach for segmentation of modern web pages." World Wide Web 28, no. 2 (2025): 23. 
+
+Hieu Huynh, Quoc-Tri Le, Tien N. Nguyen, and Vu Nguyen. "Using LLM for Mining and Testing Constraints in API Testing." In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024). 
 
 Hieu Huynh, Nhu Pham, Tien Nguyen, Vu Nguyen, "Segment-based Test Case Prioritization: a Multi-objective   Approach", ISSTA 2024, Vienna, Austria. [arXiv](https://arxiv.org/pdf/2408.0705)
 
