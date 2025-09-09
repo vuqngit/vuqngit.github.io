@@ -3,12 +3,6 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-Hieu Huynh, Hai Phung, Hao Pham, Tien N. Nguyen, Vu Nguyen, "Towards Test Generation from Task Description for Mobile Testing with Multi-modal Reasoning", 2025. [arXiv](https://arxiv.org/pdf/2504.15917)
-
-Duy Cao, Phu Nguyen, Vy Le, Tien N. Nguyen, Vu Nguyen, "Toward Generation of Test Cases from Task Descriptions via History-aware Planning", 2025. [arXiv](https://arxiv.org/pdf/2504.14336)
-
-Hieu Huynh, Tri Le, Vu Nguyen, Tien N. Nguyen, "Combining Static and Dynamic Approaches for Mining and Testing Constraints for RESTful API Testing", 2025. [arXiv](https://arxiv.org/pdf/2504.17287)
-
 Hieu Huynh, Quoc-Tri Le, Vu Nguyen, and Tien Nguyen. "A DOM-structural cohesion analysis approach for segmentation of modern web pages." World Wide Web 28, no. 2 (2025): 23. 
 
 Hieu Huynh, Quoc-Tri Le, Tien N. Nguyen, and Vu Nguyen. "Using LLM for Mining and Testing Constraints in API Testing." In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024). 
