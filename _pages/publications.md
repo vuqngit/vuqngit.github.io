@@ -3,6 +3,8 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+Hieu Huynh, Tri Le, Tu Nguyen, Viet Nguyen, Vu Nguyen, Tien N. Nguyen. "RBCTest: Leveraging LLMs to Mine and Verify Oracles of API Response Bodies for RESTful API Testing", ICSE 2026, Rio de Janeiro, Brazil. [arXiv](https://arxiv.org/abs/2504.17287)
+
 Hieu Huynh, Quoc-Tri Le, Vu Nguyen, and Tien Nguyen. "A DOM-structural cohesion analysis approach for segmentation of modern web pages." World Wide Web 28, no. 2 (2025): 23. 
 
 Hieu Huynh, Quoc-Tri Le, Tien N. Nguyen, and Vu Nguyen. "Using LLM for Mining and Testing Constraints in API Testing." In Proceedings of the 39th IEEE/ACM International Conference on Automated Software Engineering (ASE 2024). 
